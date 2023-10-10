@@ -1,7 +1,8 @@
 package com.example.wackycoder;
 
 public abstract class Shape {
-    
-    String color = "golden";
+    private int x;
+    private int y;
+    String color = "red";
 
 }
